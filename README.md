@@ -30,6 +30,18 @@ in the middle of the fixture.
 ![Alt text](figures/cutting_testbed.jpg?raw=true "Cutting test bed" )
 
 
+### Citation
+If you are using this dataset in your work, please cite the following paper. It will be published in IROS 2020. 
+```
+@article{rezaei2020learning,
+  title={Learning the Latent Space of Robot Dynamics for Cutting Interaction Inference},
+  author={Rezaei-Shoshtari, Sahand and Meger, David and Sharf, Inna},
+  journal={arXiv preprint arXiv:2007.11167},
+  year={2020}
+}
+```
+
+
 ### Dataset Details
 * The dataset has been collected on 12 unique wood specimens each being cut 15 times, 
 thus resulting in a total of 180 cuts. The rods have been selected from sets of 
